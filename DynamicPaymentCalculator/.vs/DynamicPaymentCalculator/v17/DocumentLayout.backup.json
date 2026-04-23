@@ -1,0 +1,368 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "I:\\\u05DE\u05E9\u05E8\u05D3 \u05D4\u05D7\u05D9\u05E0\u05D5\u05DA\\DynamicPaymentCalculator\\DynamicPaymentCalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8EB1E9F-38AF-472D-8822-C35F01D39278}|Payments.API\\Payments.API.csproj|i:\\\u05DE\u05E9\u05E8\u05D3 \u05D4\u05D7\u05D9\u05E0\u05D5\u05DA\\dynamicpaymentcalculator\\dynamicpaymentcalculator\\payments.api\\controllers\\logscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8EB1E9F-38AF-472D-8822-C35F01D39278}|Payments.API\\Payments.API.csproj|solutionrelative:payments.api\\controllers\\logscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1684C0-2245-4E15-B9FE-18B469D603A1}|DynamicPaymentCalculator\\DynamicPaymentCalculator.csproj|i:\\\u05DE\u05E9\u05E8\u05D3 \u05D4\u05D7\u05D9\u05E0\u05D5\u05DA\\dynamicpaymentcalculator\\dynamicpaymentcalculator\\dynamicpaymentcalculator\\scripts\\03_calculationengines.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{7D1684C0-2245-4E15-B9FE-18B469D603A1}|DynamicPaymentCalculator\\DynamicPaymentCalculator.csproj|solutionrelative:dynamicpaymentcalculator\\scripts\\03_calculationengines.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1684C0-2245-4E15-B9FE-18B469D603A1}|DynamicPaymentCalculator\\DynamicPaymentCalculator.csproj|i:\\\u05DE\u05E9\u05E8\u05D3 \u05D4\u05D7\u05D9\u05E0\u05D5\u05DA\\dynamicpaymentcalculator\\dynamicpaymentcalculator\\dynamicpaymentcalculator\\scripts\\03_calculationengines.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{7D1684C0-2245-4E15-B9FE-18B469D603A1}|DynamicPaymentCalculator\\DynamicPaymentCalculator.csproj|solutionrelative:dynamicpaymentcalculator\\scripts\\03_calculationengines.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8EB1E9F-38AF-472D-8822-C35F01D39278}|Payments.API\\Payments.API.csproj|i:\\\u05DE\u05E9\u05E8\u05D3 \u05D4\u05D7\u05D9\u05E0\u05D5\u05DA\\dynamicpaymentcalculator\\dynamicpaymentcalculator\\payments.api\\models\\calculationlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8EB1E9F-38AF-472D-8822-C35F01D39278}|Payments.API\\Payments.API.csproj|solutionrelative:payments.api\\models\\calculationlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1684C0-2245-4E15-B9FE-18B469D603A1}|DynamicPaymentCalculator\\DynamicPaymentCalculator.csproj|i:\\\u05DE\u05E9\u05E8\u05D3 \u05D4\u05D7\u05D9\u05E0\u05D5\u05DA\\dynamicpaymentcalculator\\dynamicpaymentcalculator\\dynamicpaymentcalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D1684C0-2245-4E15-B9FE-18B469D603A1}|DynamicPaymentCalculator\\DynamicPaymentCalculator.csproj|solutionrelative:dynamicpaymentcalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1684C0-2245-4E15-B9FE-18B469D603A1}|DynamicPaymentCalculator\\DynamicPaymentCalculator.csproj|i:\\\u05DE\u05E9\u05E8\u05D3 \u05D4\u05D7\u05D9\u05E0\u05D5\u05DA\\dynamicpaymentcalculator\\dynamicpaymentcalculator\\dynamicpaymentcalculator\\scripts\\01_createschema.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{7D1684C0-2245-4E15-B9FE-18B469D603A1}|DynamicPaymentCalculator\\DynamicPaymentCalculator.csproj|solutionrelative:dynamicpaymentcalculator\\scripts\\01_createschema.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8EB1E9F-38AF-472D-8822-C35F01D39278}|Payments.API\\Payments.API.csproj|i:\\\u05DE\u05E9\u05E8\u05D3 \u05D4\u05D7\u05D9\u05E0\u05D5\u05DA\\dynamicpaymentcalculator\\dynamicpaymentcalculator\\payments.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C8EB1E9F-38AF-472D-8822-C35F01D39278}|Payments.API\\Payments.API.csproj|solutionrelative:payments.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8EB1E9F-38AF-472D-8822-C35F01D39278}|Payments.API\\Payments.API.csproj|i:\\\u05DE\u05E9\u05E8\u05D3 \u05D4\u05D7\u05D9\u05E0\u05D5\u05DA\\dynamicpaymentcalculator\\dynamicpaymentcalculator\\payments.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C8EB1E9F-38AF-472D-8822-C35F01D39278}|Payments.API\\Payments.API.csproj|solutionrelative:payments.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8EB1E9F-38AF-472D-8822-C35F01D39278}|Payments.API\\Payments.API.csproj|i:\\\u05DE\u05E9\u05E8\u05D3 \u05D4\u05D7\u05D9\u05E0\u05D5\u05DA\\dynamicpaymentcalculator\\dynamicpaymentcalculator\\payments.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8EB1E9F-38AF-472D-8822-C35F01D39278}|Payments.API\\Payments.API.csproj|solutionrelative:payments.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8EB1E9F-38AF-472D-8822-C35F01D39278}|Payments.API\\Payments.API.csproj|i:\\\u05DE\u05E9\u05E8\u05D3 \u05D4\u05D7\u05D9\u05E0\u05D5\u05DA\\dynamicpaymentcalculator\\dynamicpaymentcalculator\\payments.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8EB1E9F-38AF-472D-8822-C35F01D39278}|Payments.API\\Payments.API.csproj|solutionrelative:payments.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8EB1E9F-38AF-472D-8822-C35F01D39278}|Payments.API\\Payments.API.csproj|i:\\\u05DE\u05E9\u05E8\u05D3 \u05D4\u05D7\u05D9\u05E0\u05D5\u05DA\\dynamicpaymentcalculator\\dynamicpaymentcalculator\\payments.api\\services\\logservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8EB1E9F-38AF-472D-8822-C35F01D39278}|Payments.API\\Payments.API.csproj|solutionrelative:payments.api\\services\\logservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8EB1E9F-38AF-472D-8822-C35F01D39278}|Payments.API\\Payments.API.csproj|i:\\\u05DE\u05E9\u05E8\u05D3 \u05D4\u05D7\u05D9\u05E0\u05D5\u05DA\\dynamicpaymentcalculator\\dynamicpaymentcalculator\\payments.api\\services\\ilogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8EB1E9F-38AF-472D-8822-C35F01D39278}|Payments.API\\Payments.API.csproj|solutionrelative:payments.api\\services\\ilogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8EB1E9F-38AF-472D-8822-C35F01D39278}|Payments.API\\Payments.API.csproj|i:\\\u05DE\u05E9\u05E8\u05D3 \u05D4\u05D7\u05D9\u05E0\u05D5\u05DA\\dynamicpaymentcalculator\\dynamicpaymentcalculator\\payments.api\\data\\logrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8EB1E9F-38AF-472D-8822-C35F01D39278}|Payments.API\\Payments.API.csproj|solutionrelative:payments.api\\data\\logrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8EB1E9F-38AF-472D-8822-C35F01D39278}|Payments.API\\Payments.API.csproj|i:\\\u05DE\u05E9\u05E8\u05D3 \u05D4\u05D7\u05D9\u05E0\u05D5\u05DA\\dynamicpaymentcalculator\\dynamicpaymentcalculator\\payments.api\\data\\ilogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8EB1E9F-38AF-472D-8822-C35F01D39278}|Payments.API\\Payments.API.csproj|solutionrelative:payments.api\\data\\ilogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1684C0-2245-4E15-B9FE-18B469D603A1}|DynamicPaymentCalculator\\DynamicPaymentCalculator.csproj|i:\\\u05DE\u05E9\u05E8\u05D3 \u05D4\u05D7\u05D9\u05E0\u05D5\u05DA\\dynamicpaymentcalculator\\dynamicpaymentcalculator\\dynamicpaymentcalculator\\scripts\\02_seeddata.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{7D1684C0-2245-4E15-B9FE-18B469D603A1}|DynamicPaymentCalculator\\DynamicPaymentCalculator.csproj|solutionrelative:dynamicpaymentcalculator\\scripts\\02_seeddata.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1684C0-2245-4E15-B9FE-18B469D603A1}|DynamicPaymentCalculator\\DynamicPaymentCalculator.csproj|i:\\\u05DE\u05E9\u05E8\u05D3 \u05D4\u05D7\u05D9\u05E0\u05D5\u05DA\\dynamicpaymentcalculator\\dynamicpaymentcalculator\\dynamicpaymentcalculator\\services\\idatageneratorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D1684C0-2245-4E15-B9FE-18B469D603A1}|DynamicPaymentCalculator\\DynamicPaymentCalculator.csproj|solutionrelative:dynamicpaymentcalculator\\services\\idatageneratorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1684C0-2245-4E15-B9FE-18B469D603A1}|DynamicPaymentCalculator\\DynamicPaymentCalculator.csproj|i:\\\u05DE\u05E9\u05E8\u05D3 \u05D4\u05D7\u05D9\u05E0\u05D5\u05DA\\dynamicpaymentcalculator\\dynamicpaymentcalculator\\dynamicpaymentcalculator\\services\\datageneratorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D1684C0-2245-4E15-B9FE-18B469D603A1}|DynamicPaymentCalculator\\DynamicPaymentCalculator.csproj|solutionrelative:dynamicpaymentcalculator\\services\\datageneratorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1684C0-2245-4E15-B9FE-18B469D603A1}|DynamicPaymentCalculator\\DynamicPaymentCalculator.csproj|i:\\\u05DE\u05E9\u05E8\u05D3 \u05D4\u05D7\u05D9\u05E0\u05D5\u05DA\\dynamicpaymentcalculator\\dynamicpaymentcalculator\\dynamicpaymentcalculator\\data\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D1684C0-2245-4E15-B9FE-18B469D603A1}|DynamicPaymentCalculator\\DynamicPaymentCalculator.csproj|solutionrelative:dynamicpaymentcalculator\\data\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1684C0-2245-4E15-B9FE-18B469D603A1}|DynamicPaymentCalculator\\DynamicPaymentCalculator.csproj|i:\\\u05DE\u05E9\u05E8\u05D3 \u05D4\u05D7\u05D9\u05E0\u05D5\u05DA\\dynamicpaymentcalculator\\dynamicpaymentcalculator\\dynamicpaymentcalculator\\data\\idatabaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D1684C0-2245-4E15-B9FE-18B469D603A1}|DynamicPaymentCalculator\\DynamicPaymentCalculator.csproj|solutionrelative:dynamicpaymentcalculator\\data\\idatabaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1684C0-2245-4E15-B9FE-18B469D603A1}|DynamicPaymentCalculator\\DynamicPaymentCalculator.csproj|i:\\\u05DE\u05E9\u05E8\u05D3 \u05D4\u05D7\u05D9\u05E0\u05D5\u05DA\\dynamicpaymentcalculator\\dynamicpaymentcalculator\\dynamicpaymentcalculator\\models\\paymentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D1684C0-2245-4E15-B9FE-18B469D603A1}|DynamicPaymentCalculator\\DynamicPaymentCalculator.csproj|solutionrelative:dynamicpaymentcalculator\\models\\paymentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1684C0-2245-4E15-B9FE-18B469D603A1}|DynamicPaymentCalculator\\DynamicPaymentCalculator.csproj|i:\\\u05DE\u05E9\u05E8\u05D3 \u05D4\u05D7\u05D9\u05E0\u05D5\u05DA\\dynamicpaymentcalculator\\dynamicpaymentcalculator\\dynamicpaymentcalculator\\scripts\\01_createschema.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{7D1684C0-2245-4E15-B9FE-18B469D603A1}|DynamicPaymentCalculator\\DynamicPaymentCalculator.csproj|solutionrelative:dynamicpaymentcalculator\\scripts\\01_createschema.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "I:\\\u05DE\u05E9\u05E8\u05D3 \u05D4\u05D7\u05D9\u05E0\u05D5\u05DA\\DynamicPaymentCalculator\\DynamicPaymentCalculator\\Payments.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Payments.API\\appsettings.json",
+              "ToolTip": "I:\\\u05DE\u05E9\u05E8\u05D3 \u05D4\u05D7\u05D9\u05E0\u05D5\u05DA\\DynamicPaymentCalculator\\DynamicPaymentCalculator\\Payments.API\\appsettings.json",
+              "RelativeToolTip": "Payments.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-23T20:32:51.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LogsController.cs",
+              "DocumentMoniker": "I:\\\u05DE\u05E9\u05E8\u05D3 \u05D4\u05D7\u05D9\u05E0\u05D5\u05DA\\DynamicPaymentCalculator\\DynamicPaymentCalculator\\Payments.API\\Controllers\\LogsController.cs",
+              "RelativeDocumentMoniker": "Payments.API\\Controllers\\LogsController.cs",
+              "ToolTip": "I:\\\u05DE\u05E9\u05E8\u05D3 \u05D4\u05D7\u05D9\u05E0\u05D5\u05DA\\DynamicPaymentCalculator\\DynamicPaymentCalculator\\Payments.API\\Controllers\\LogsController.cs",
+              "RelativeToolTip": "Payments.API\\Controllers\\LogsController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAYwE4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T20:32:51.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "I:\\\u05DE\u05E9\u05E8\u05D3 \u05D4\u05D7\u05D9\u05E0\u05D5\u05DA\\DynamicPaymentCalculator\\DynamicPaymentCalculator\\Payments.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Payments.API\\Properties\\launchSettings.json",
+              "ToolTip": "I:\\\u05DE\u05E9\u05E8\u05D3 \u05D4\u05D7\u05D9\u05E0\u05D5\u05DA\\DynamicPaymentCalculator\\DynamicPaymentCalculator\\Payments.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Payments.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-23T20:32:51.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "I:\\\u05DE\u05E9\u05E8\u05D3 \u05D4\u05D7\u05D9\u05E0\u05D5\u05DA\\DynamicPaymentCalculator\\DynamicPaymentCalculator\\Payments.API\\Program.cs",
+              "RelativeDocumentMoniker": "Payments.API\\Program.cs",
+              "ToolTip": "I:\\\u05DE\u05E9\u05E8\u05D3 \u05D4\u05D7\u05D9\u05E0\u05D5\u05DA\\DynamicPaymentCalculator\\DynamicPaymentCalculator\\Payments.API\\Program.cs",
+              "RelativeToolTip": "Payments.API\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAADwvysAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T20:32:51.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "I:\\\u05DE\u05E9\u05E8\u05D3 \u05D4\u05D7\u05D9\u05E0\u05D5\u05DA\\DynamicPaymentCalculator\\DynamicPaymentCalculator\\Payments.API\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Payments.API\\WeatherForecast.cs",
+              "ToolTip": "I:\\\u05DE\u05E9\u05E8\u05D3 \u05D4\u05D7\u05D9\u05E0\u05D5\u05DA\\DynamicPaymentCalculator\\DynamicPaymentCalculator\\Payments.API\\WeatherForecast.cs",
+              "RelativeToolTip": "Payments.API\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T20:32:51.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LogService.cs",
+              "DocumentMoniker": "I:\\\u05DE\u05E9\u05E8\u05D3 \u05D4\u05D7\u05D9\u05E0\u05D5\u05DA\\DynamicPaymentCalculator\\DynamicPaymentCalculator\\Payments.API\\Services\\LogService.cs",
+              "RelativeDocumentMoniker": "Payments.API\\Services\\LogService.cs",
+              "ToolTip": "I:\\\u05DE\u05E9\u05E8\u05D3 \u05D4\u05D7\u05D9\u05E0\u05D5\u05DA\\DynamicPaymentCalculator\\DynamicPaymentCalculator\\Payments.API\\Services\\LogService.cs",
+              "RelativeToolTip": "Payments.API\\Services\\LogService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T20:32:51.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ILogService.cs",
+              "DocumentMoniker": "I:\\\u05DE\u05E9\u05E8\u05D3 \u05D4\u05D7\u05D9\u05E0\u05D5\u05DA\\DynamicPaymentCalculator\\DynamicPaymentCalculator\\Payments.API\\Services\\ILogService.cs",
+              "RelativeDocumentMoniker": "Payments.API\\Services\\ILogService.cs",
+              "ToolTip": "I:\\\u05DE\u05E9\u05E8\u05D3 \u05D4\u05D7\u05D9\u05E0\u05D5\u05DA\\DynamicPaymentCalculator\\DynamicPaymentCalculator\\Payments.API\\Services\\ILogService.cs",
+              "RelativeToolTip": "Payments.API\\Services\\ILogService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T20:32:51.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LogRepository.cs",
+              "DocumentMoniker": "I:\\\u05DE\u05E9\u05E8\u05D3 \u05D4\u05D7\u05D9\u05E0\u05D5\u05DA\\DynamicPaymentCalculator\\DynamicPaymentCalculator\\Payments.API\\Data\\LogRepository.cs",
+              "RelativeDocumentMoniker": "Payments.API\\Data\\LogRepository.cs",
+              "ToolTip": "I:\\\u05DE\u05E9\u05E8\u05D3 \u05D4\u05D7\u05D9\u05E0\u05D5\u05DA\\DynamicPaymentCalculator\\DynamicPaymentCalculator\\Payments.API\\Data\\LogRepository.cs",
+              "RelativeToolTip": "Payments.API\\Data\\LogRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAswCAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T20:32:51.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ILogRepository.cs",
+              "DocumentMoniker": "I:\\\u05DE\u05E9\u05E8\u05D3 \u05D4\u05D7\u05D9\u05E0\u05D5\u05DA\\DynamicPaymentCalculator\\DynamicPaymentCalculator\\Payments.API\\Data\\ILogRepository.cs",
+              "RelativeDocumentMoniker": "Payments.API\\Data\\ILogRepository.cs",
+              "ToolTip": "I:\\\u05DE\u05E9\u05E8\u05D3 \u05D4\u05D7\u05D9\u05E0\u05D5\u05DA\\DynamicPaymentCalculator\\DynamicPaymentCalculator\\Payments.API\\Data\\ILogRepository.cs",
+              "RelativeToolTip": "Payments.API\\Data\\ILogRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T20:32:51.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CalculationLog.cs",
+              "DocumentMoniker": "I:\\\u05DE\u05E9\u05E8\u05D3 \u05D4\u05D7\u05D9\u05E0\u05D5\u05DA\\DynamicPaymentCalculator\\DynamicPaymentCalculator\\Payments.API\\Models\\CalculationLog.cs",
+              "RelativeDocumentMoniker": "Payments.API\\Models\\CalculationLog.cs",
+              "ToolTip": "I:\\\u05DE\u05E9\u05E8\u05D3 \u05D4\u05D7\u05D9\u05E0\u05D5\u05DA\\DynamicPaymentCalculator\\DynamicPaymentCalculator\\Payments.API\\Models\\CalculationLog.cs",
+              "RelativeToolTip": "Payments.API\\Models\\CalculationLog.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA/wBkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T20:32:51.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "03_CalculationEngines.sql ",
+              "DocumentMoniker": "I:\\\u05DE\u05E9\u05E8\u05D3 \u05D4\u05D7\u05D9\u05E0\u05D5\u05DA\\DynamicPaymentCalculator\\DynamicPaymentCalculator\\DynamicPaymentCalculator\\Scripts\\03_CalculationEngines.sql",
+              "RelativeDocumentMoniker": "DynamicPaymentCalculator\\Scripts\\03_CalculationEngines.sql",
+              "ToolTip": "I:\\\u05DE\u05E9\u05E8\u05D3 \u05D4\u05D7\u05D9\u05E0\u05D5\u05DA\\DynamicPaymentCalculator\\DynamicPaymentCalculator\\DynamicPaymentCalculator\\Scripts\\03_CalculationEngines.sql",
+              "RelativeToolTip": "DynamicPaymentCalculator\\Scripts\\03_CalculationEngines.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-04-23T20:32:52.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "02_SeedData.sql",
+              "DocumentMoniker": "I:\\\u05DE\u05E9\u05E8\u05D3 \u05D4\u05D7\u05D9\u05E0\u05D5\u05DA\\DynamicPaymentCalculator\\DynamicPaymentCalculator\\DynamicPaymentCalculator\\Scripts\\02_SeedData.sql",
+              "RelativeDocumentMoniker": "DynamicPaymentCalculator\\Scripts\\02_SeedData.sql",
+              "ToolTip": "I:\\\u05DE\u05E9\u05E8\u05D3 \u05D4\u05D7\u05D9\u05E0\u05D5\u05DA\\DynamicPaymentCalculator\\DynamicPaymentCalculator\\DynamicPaymentCalculator\\Scripts\\02_SeedData.sql",
+              "RelativeToolTip": "DynamicPaymentCalculator\\Scripts\\02_SeedData.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-04-23T20:32:52.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "01_CreateSchema.sql ",
+              "DocumentMoniker": "I:\\\u05DE\u05E9\u05E8\u05D3 \u05D4\u05D7\u05D9\u05E0\u05D5\u05DA\\DynamicPaymentCalculator\\DynamicPaymentCalculator\\DynamicPaymentCalculator\\Scripts\\01_CreateSchema.sql",
+              "RelativeDocumentMoniker": "DynamicPaymentCalculator\\Scripts\\01_CreateSchema.sql",
+              "ToolTip": "I:\\\u05DE\u05E9\u05E8\u05D3 \u05D4\u05D7\u05D9\u05E0\u05D5\u05DA\\DynamicPaymentCalculator\\DynamicPaymentCalculator\\DynamicPaymentCalculator\\Scripts\\01_CreateSchema.sql",
+              "RelativeToolTip": "DynamicPaymentCalculator\\Scripts\\01_CreateSchema.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-04-23T20:32:52.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DatabaseService.cs",
+              "DocumentMoniker": "I:\\\u05DE\u05E9\u05E8\u05D3 \u05D4\u05D7\u05D9\u05E0\u05D5\u05DA\\DynamicPaymentCalculator\\DynamicPaymentCalculator\\DynamicPaymentCalculator\\Data\\DatabaseService.cs",
+              "RelativeDocumentMoniker": "DynamicPaymentCalculator\\Data\\DatabaseService.cs",
+              "ToolTip": "I:\\\u05DE\u05E9\u05E8\u05D3 \u05D4\u05D7\u05D9\u05E0\u05D5\u05DA\\DynamicPaymentCalculator\\DynamicPaymentCalculator\\DynamicPaymentCalculator\\Data\\DatabaseService.cs",
+              "RelativeToolTip": "DynamicPaymentCalculator\\Data\\DatabaseService.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAIwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T20:32:52.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "I:\\\u05DE\u05E9\u05E8\u05D3 \u05D4\u05D7\u05D9\u05E0\u05D5\u05DA\\DynamicPaymentCalculator\\DynamicPaymentCalculator\\DynamicPaymentCalculator\\Program.cs",
+              "RelativeDocumentMoniker": "DynamicPaymentCalculator\\Program.cs",
+              "ToolTip": "I:\\\u05DE\u05E9\u05E8\u05D3 \u05D4\u05D7\u05D9\u05E0\u05D5\u05DA\\DynamicPaymentCalculator\\DynamicPaymentCalculator\\DynamicPaymentCalculator\\Program.cs",
+              "RelativeToolTip": "DynamicPaymentCalculator\\Program.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAewFgAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T20:32:52.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IDataGeneratorService.cs",
+              "DocumentMoniker": "I:\\\u05DE\u05E9\u05E8\u05D3 \u05D4\u05D7\u05D9\u05E0\u05D5\u05DA\\DynamicPaymentCalculator\\DynamicPaymentCalculator\\DynamicPaymentCalculator\\Services\\IDataGeneratorService.cs",
+              "RelativeDocumentMoniker": "DynamicPaymentCalculator\\Services\\IDataGeneratorService.cs",
+              "ToolTip": "I:\\\u05DE\u05E9\u05E8\u05D3 \u05D4\u05D7\u05D9\u05E0\u05D5\u05DA\\DynamicPaymentCalculator\\DynamicPaymentCalculator\\DynamicPaymentCalculator\\Services\\IDataGeneratorService.cs",
+              "RelativeToolTip": "DynamicPaymentCalculator\\Services\\IDataGeneratorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T20:32:52.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DataGeneratorService.cs",
+              "DocumentMoniker": "I:\\\u05DE\u05E9\u05E8\u05D3 \u05D4\u05D7\u05D9\u05E0\u05D5\u05DA\\DynamicPaymentCalculator\\DynamicPaymentCalculator\\DynamicPaymentCalculator\\Services\\DataGeneratorService.cs",
+              "RelativeDocumentMoniker": "DynamicPaymentCalculator\\Services\\DataGeneratorService.cs",
+              "ToolTip": "I:\\\u05DE\u05E9\u05E8\u05D3 \u05D4\u05D7\u05D9\u05E0\u05D5\u05DA\\DynamicPaymentCalculator\\DynamicPaymentCalculator\\DynamicPaymentCalculator\\Services\\DataGeneratorService.cs",
+              "RelativeToolTip": "DynamicPaymentCalculator\\Services\\DataGeneratorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T20:32:52.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IDatabaseService.cs",
+              "DocumentMoniker": "I:\\\u05DE\u05E9\u05E8\u05D3 \u05D4\u05D7\u05D9\u05E0\u05D5\u05DA\\DynamicPaymentCalculator\\DynamicPaymentCalculator\\DynamicPaymentCalculator\\Data\\IDatabaseService.cs",
+              "RelativeDocumentMoniker": "DynamicPaymentCalculator\\Data\\IDatabaseService.cs",
+              "ToolTip": "I:\\\u05DE\u05E9\u05E8\u05D3 \u05D4\u05D7\u05D9\u05E0\u05D5\u05DA\\DynamicPaymentCalculator\\DynamicPaymentCalculator\\DynamicPaymentCalculator\\Data\\IDatabaseService.cs",
+              "RelativeToolTip": "DynamicPaymentCalculator\\Data\\IDatabaseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T20:32:52.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PaymentData.cs",
+              "DocumentMoniker": "I:\\\u05DE\u05E9\u05E8\u05D3 \u05D4\u05D7\u05D9\u05E0\u05D5\u05DA\\DynamicPaymentCalculator\\DynamicPaymentCalculator\\DynamicPaymentCalculator\\Models\\PaymentData.cs",
+              "RelativeDocumentMoniker": "DynamicPaymentCalculator\\Models\\PaymentData.cs",
+              "ToolTip": "I:\\\u05DE\u05E9\u05E8\u05D3 \u05D4\u05D7\u05D9\u05E0\u05D5\u05DA\\DynamicPaymentCalculator\\DynamicPaymentCalculator\\DynamicPaymentCalculator\\Models\\PaymentData.cs",
+              "RelativeToolTip": "DynamicPaymentCalculator\\Models\\PaymentData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T20:32:52.393Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
